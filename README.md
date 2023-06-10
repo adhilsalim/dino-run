@@ -1,6 +1,3 @@
-Sure, here is a GitHub README for the DINO RUN Scratch game:
-
-
 # DINO RUN
 
 A simple endless runner game made in Scratch. THE BEST GAME in sb ajce scratch game contest 2023.
