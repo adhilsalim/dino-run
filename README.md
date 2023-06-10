@@ -1,6 +1,6 @@
 # DINO RUN
 
-A simple endless runner game made in Scratch. THE BEST GAME in sb ajce scratch game contest 2023.
+A simple endless runner game made in Scratch. THE BEST GAME in sb ajce scratch game contest 2022.
 
 ## Features
 
