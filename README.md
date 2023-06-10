@@ -8,7 +8,7 @@ A simple endless runner game made in Scratch. THE BEST GAME in sb ajce scratch g
 * Simple controls
 * Challenging obstacles
 * And many more!
-* 
+
 ## How to play
 
 Instructions are given in the game itself.
